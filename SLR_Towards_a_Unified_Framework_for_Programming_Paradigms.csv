@@ -1,0 +1,75 @@
+Id,Reference,venue_type,Year,primary_rq
+S1.1,akinin2012new,Conference,2012,RQ1
+S1.2,ambler1992operational,Journal,1992,RQ1
+S1.3,anureev2008problem,Journal,2008,RQ1
+S1.4,argaranaz1997formalising,Conference,1997,RQ1
+S1.5,bono2008traits,Conference,2008,RQ1
+S1.6,breazu1992naturally,Conference,1992,RQ1
+S1.7,cardelli1984semantics,Conference,1984,RQ1
+S1.8,clark1994layered,Journal,1994,RQ1
+S1.9,darlington1992design,Conference,1992,RQ1
+S1.10,diaz1996object,Journal,1996,RQ1
+S1.11,drew1994exception,Conference,1994,RQ1
+S1.12,el2007productivity,Conference,2007,RQ1
+S1.13,Gorodnyaya2021,Journal,2021,RQ1
+S1.14,gorodnyaya2019method,Conference,2019,RQ1
+S1.15,hanus2007multi,Conference,2007,RQ1
+S1.16,jones2017classless,Thesis,2017,RQ1
+S1.17,jordan2015feature,Journal,2015,RQ1
+S1.18,kifer1995logical,Journal,1995,RQ1
+S1.19,krishnamurthi201913,Book Chapter,2019,RQ1
+S1.20,lee2015theory,Conference,2015,RQ1
+S1.21,mckenzie1992algebraic,Book,1992,RQ1
+S1.22,michaelsonprogramming,Preprint,2018,RQ1
+S1.23,owens2016generic,Thesis,2016,RQ1
+S1.24,paakki1995attribute,Journal,1995,RQ1
+S1.25,ramos1993design,Thesis,1993,RQ1
+S1.26,shilov2011development,Conference,2011,RQ1
+S1.27,smith2010embedding,Thesis,2010,RQ1
+S1.28,steinfeld2014imperative,Journal,2014,RQ1
+S1.29,teixeira2021multi,Conference,2021,RQ1
+S1.30,valle2013towards,Conference,2013,RQ1
+S1.31,van2009programming,Journal,2009,RQ1
+S1.32,van2002teaching,Conference,2002,RQ1
+S1.33,van2003teaching,Conference,2003,RQ1
+S1.34,willcock2004formalization,Conference,2004,RQ1
+S2.1,abramsky1997semantics,Book Chapter,1997,RQ2
+S2.2,abrial1984programming,Journal,1984,RQ2
+S2.3,amato2009algebraic,Journal,2009,RQ2
+S2.4,arbab2005abstract,Journal,2005,RQ2
+S2.5,banuatre2000gamma,Conference,2000,RQ2
+S2.6,bauer2015programming,Journal,2015,RQ2
+S2.7,bohm1985automatic,Journal,1985,RQ2
+S2.8,bracha1992programming,Thesis,1992,RQ2
+S2.9,buneman1991structural,Conference,1991,RQ2
+S2.10,cruz2015choreographies,Preprint,2015,RQ2
+S2.11,cui2005ats,Conference,2005,RQ2
+S2.12,diaconescu1994category,Thesis,1994,RQ2
+S2.13,dos2005generic,Conference,2005,RQ2
+S2.14,finkelstein2003new,Journal,2003,RQ2
+S2.15,gabbrielli1991modeling,Technical Report,1991,RQ2
+S2.16,janson1995akl,Thesis,1995,RQ2
+S2.17,jifeng2000unifying,Conference,2000,RQ2
+S2.18,lanese2020general,Conference,2020,RQ2
+S2.19,lepper2014foundations,Preprint,2014,RQ2
+S2.20,li1994defining,Journal,1994,RQ2
+S2.21,lisper2005data,Book Chapter,2005,RQ2
+S2.22,maietti2009minimalist,Journal,2009,RQ2
+S2.23,manna2003mathematical,Book,2003,RQ2
+S2.24,mccarthy1959basis,Book Chapter,1959,RQ2
+S2.25,meseguer1993logical,Book Chapter,1993,RQ2
+S2.26,mycroft1996integration,Journal,1996,RQ2
+S2.27,nuka2006mechanising,Conference,2006,RQ2
+S2.28,oeyen2022graph,Conference,2022,RQ2
+S2.29,ohori1990representing,Conference,1990,RQ2
+S2.30,Oliveira2014,Conference,2014,RQ2
+S2.31,patterson2022semantic,Conference,2022,RQ2
+S2.32,plotkin2013handling,Journal,2013,RQ2
+S2.33,plotkin1981structural,Technical Report,1981,RQ2
+S2.34,santos2006object,Conference,2006,RQ2
+S2.35,saraswat1992higher,Technical Report,1992,RQ2
+S2.36,scholz1995four,Conference,1995,RQ2
+S2.37,silbermann1992domain,Journal,1992,RQ2
+S2.38,sipser1996introduction,Journal,1996,RQ2
+S2.39,spinellis1994programming,Thesis,1994,RQ2
+S2.40,wegner1990concepts,Journal,1990,RQ2
