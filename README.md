@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1026910560.svg)](https://doi.org/10.5281/zenodo.16652230)
 # Systematic Literature Review — Towards a Unified Framework for Programming Paradigms
 
 This repository contains the primary data and figures associated with the systematic literature review (SLR) submitted to the *Journal of Object Technology* on **July 29, 2025**.
